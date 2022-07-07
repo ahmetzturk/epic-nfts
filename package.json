@@ -1,0 +1,28 @@
+{
+  "name": "epic-nfts",
+  "version": "1.0.0",
+  "description": "\"# epic-nfts\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetzturk/epic-nfts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmetzturk/epic-nfts/issues"
+  },
+  "homepage": "https://github.com/ahmetzturk/epic-nfts#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "hardhat": "^2.9.9"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0",
+    "dotenv": "^16.0.1"
+  }
+}
